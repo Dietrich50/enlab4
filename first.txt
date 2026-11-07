@@ -3,4 +3,8 @@
 Строка main 2
 Строка main 1
 Строка main 2
+ HEAD
 Строка от main для конфликта
+
+Строка zad2
+ c1f8107 (Изменение first.txt in zad2)
